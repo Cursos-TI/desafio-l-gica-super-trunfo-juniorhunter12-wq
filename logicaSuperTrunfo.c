@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-    // ---- Declarações (tudo antes de usar) ----
+    // ---- Declarações  ----
     unsigned long int populacao, populacao2;
     int numero_de_pontos_turisticos, numero_de_pontos_turisticos2;
     float area, area2;
